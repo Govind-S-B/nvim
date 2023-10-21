@@ -1,0 +1,5 @@
+:set number
+:set relativenumber
+:set autoindent
+nnoremap H ^
+nnoremap L $
